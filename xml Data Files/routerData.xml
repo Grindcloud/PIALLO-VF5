@@ -1,0 +1,7 @@
+when static :: connection
+class (Router) = true 
+then <connection class="logged"></connection>
+made then 
+}
+
+-- <printIn class="log"></printIn>"Hello World."
