@@ -1,0 +1,12 @@
+Here are all the information you need to know about this PIALLO version.
+
+Storage being used; 99kbs
+Ram usage; %21
+CPU usage; %0.06
+GPU usage; %0.001
+Cores being used; 2 cores 
+
+Total lines of code; 2.638
+Version serial code; Q8808068
+By Cerdocebolla's Software, Inc. 
+an Adam Gunman product

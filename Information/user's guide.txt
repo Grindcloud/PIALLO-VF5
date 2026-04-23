@@ -1,0 +1,15 @@
+Hello user, welcome to PIALLO. Here is all the information you need to know
+about runners that run PIALLO and other different ways to run PIALLO.
+
+APPLICATION RUNNERS 
+these are the usual and default way of deploying PIALLO. 
+piallo.exe, pialloForAndroids.exe, pialloForIOS.exe and
+pialloForGaming.exe are the deafult applicaton runners of
+PIALLO. If your device is fine and you do not face any issues,
+just run one of these runners.
+
+ALTERNATIVE RUNNERS 
+these are the secondary runners that you must use if you are
+encountering issues. these secondary runners usually do work
+because they have different source codes and are lighter for
+devices that can not run the default application runners.
