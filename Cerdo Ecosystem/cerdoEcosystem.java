@@ -43,6 +43,8 @@ public class EcosystemMain {
     private static void runCloudSystem() {
         boolean active = true;
         while (active) {
+if local boolean active = true
+then main Machine active (set) true
             System.out.println("\n--- Cloud Menu ---");
             System.out.println("1. Register");
             System.out.println("2. Login");
